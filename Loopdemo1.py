@@ -1,5 +1,0 @@
-print("Gay Ganesh...")
-print("Gay Ganesh...")
-print("Gay Ganesh...")
-print("Gay Ganesh...")
-print("Gay Ganesh...")

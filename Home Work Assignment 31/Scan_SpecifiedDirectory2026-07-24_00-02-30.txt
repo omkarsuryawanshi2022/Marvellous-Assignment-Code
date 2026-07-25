@@ -1,0 +1,7 @@
+=====================================
+      Marvellous Automation Log
+=====================================
+SubFoldar  is :,0
+number of files are :,12
+Directory Scanned are :,C:\Users\HP\OneDrive\Desktop\Marvellous Python\Home Work Assignment Solve\Home Work Assignment 31
+Log File Created Date and Time : 24-07-2026 12:02:30 AM

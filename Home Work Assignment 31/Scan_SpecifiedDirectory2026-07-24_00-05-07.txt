@@ -1,0 +1,7 @@
+=====================================
+      Marvellous Automation Log
+=====================================
+SubFoldar  is :,388
+number of files are :,945
+Directory Scanned are :,C:\Users\HP\OneDrive\Desktop\Marvellous Python
+Log File Created Date and Time : 24-07-2026 12:05:07 AM

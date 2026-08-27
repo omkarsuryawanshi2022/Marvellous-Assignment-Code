@@ -1,0 +1,6 @@
+=====================================
+      Marvellous Automation Log
+=====================================
+Directory path is :,C:\Users\HP\OneDrive\Desktop\Marvellous Python\Home Work Assignment Solve\Home Work Assignment 31
+number of files are :,7
+Log File Created Date and Time : 2026-07-23 21:51:45.333043
